@@ -7,3 +7,4 @@ sum = a + b + c
 avg = sum/3
 
 print(f"Sum is: {sum}, Average is: {avg:.2f}")
+
