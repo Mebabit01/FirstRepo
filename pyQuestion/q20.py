@@ -2,9 +2,9 @@
 
 i = 1
 sum = 0
-while i <= 20:
+while i<=20:
     if i%2==0:
-        print(i, end = " ")
+        print(i, end=" ")
         sum = sum + i
     i = i + 1
 print(f"\nSum is {sum}")
