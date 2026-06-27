@@ -24,19 +24,25 @@ while True:
         a = int(input("Enter your first number: "))
         b = int(input("Enter your second number: "))
         res = a + b
+        print(f"Sum is {res}")
     elif ch == 2:
         a = int(input("Enter your first number: "))
         b = int(input("Enter your second number: "))
         res = a - b
+        print(f"Difference is {res}")
     elif ch == 3:
         a = int(input("Enter your first number: "))
         b = int(input("Enter your second number: "))
         res = a * b
+        print(f"Product is {res}")
     elif ch == 4:
         a = int(input("Enter your first number: "))
         b = int(input("Enter your second number: "))
         res = a/b
+        print(f"Result is {res}")
     elif ch == 5:
+        print("Thank you for using the application")
         break
     else:
         print("Invalid choice")
+    
