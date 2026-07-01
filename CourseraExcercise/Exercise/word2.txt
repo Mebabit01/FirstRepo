@@ -1,0 +1,4 @@
+python is an amazing language to learn
+many people use python for data science and web development
+if you practice writing python code daily you will get much better
+python python python is great
